@@ -1,0 +1,7 @@
+# User-specific files
+*.ods
+*.jpg
+
+# Draw.io
+*.drawio.bkp
+*.drawio
